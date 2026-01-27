@@ -25,7 +25,7 @@
 
 #### Incompatible Mods:
 - OptiFine/OptiFabric
-- The Speedrunner Mod, Simple Keybinds, and Quality of Queso
+- [The Speedrunner Mod](https://modrinth.com/mod/speedrunner-mod), [Simple Keybinds](https://modrinth.com/mod/simple-keybinds), and [Quality of Queso](https://modrinth.com/mod/quality-of-queso)
   - These mods already have an option to remove fog built-in to them.
 
 ---
