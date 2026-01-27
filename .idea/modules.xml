@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.20x/The_NoFog_Mod.modules.fabric-mc1.20x.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.20x/The_NoFog_Mod.modules.fabric-mc1.20x.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.20x/The_NoFog_Mod.modules.fabric-mc1.20x.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.20x/The_NoFog_Mod.modules.fabric-mc1.20x.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.11/The_NoFog_Mod.modules.fabric-mc1.21.11.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.11/The_NoFog_Mod.modules.fabric-mc1.21.11.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.11/The_NoFog_Mod.modules.fabric-mc1.21.11.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.11/The_NoFog_Mod.modules.fabric-mc1.21.11.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.6x/The_NoFog_Mod.modules.fabric-mc1.21.6x.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.6x/The_NoFog_Mod.modules.fabric-mc1.21.6x.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.6x/The_NoFog_Mod.modules.fabric-mc1.21.6x.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21.6x/The_NoFog_Mod.modules.fabric-mc1.21.6x.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.test.iml" />
+    </modules>
+  </component>
+</project>

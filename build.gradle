@@ -1,0 +1,26 @@
+//allprojects {
+//    buildDir = "../build"
+//}
+
+subprojects {
+    apply plugin: 'java'
+    java.withSourcesJar()
+    java.withJavadocJar()
+
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+
+    sourceSets {
+        main {
+            resources {
+                srcDir project(':modules:common').file('src/main/resources')
+            }
+        }
+    }
+}

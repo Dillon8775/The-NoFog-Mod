@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "nofogmod",
+  "version": "1.0+mc1.21x",
+  "name": "The NoFog Mod",
+  "description": "A simple mod that removes fog.",
+  "accessWidener": "nofogmod.accessWidener",
+  "authors": [
+    "Dillon8775"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/the-nofog-mod",
+    "sources": "https://github.com/Dillon8775/The-NoFog-Mod"
+  },
+  "license": "All rights reserved.",
+  "icon": "assets/nofogmod/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.dillon.nofogmod.NoFogMod"
+    ]
+  },
+  "mixins": [
+    "nofogmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": ">=1.21.2 <=1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/vfqEAn4YFy"
+      }
+    }
+  },
+  "breaks": {
+    "simplekeybinds": "*",
+    "qualityofqueso": ">=1.5.1",
+    "speedrunnermod": "*",
+    "optifine": "*",
+    "optifabric": "*"
+  }
+}

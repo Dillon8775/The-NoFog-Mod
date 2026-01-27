@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.dillon.nofogmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FogRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
