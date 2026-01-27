@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/the-nofog-mod",
-    "sources": "https://github.com/Dillon8775/The-NoFog-Mod"
+    "sources": "https://github.com/Dillon8775/The-NoFog-Mod",
+    "issues": "https://github.com/Dillon8775/The-NoFog-Mod/issues"
   },
   "license": "All rights reserved.",
   "icon": "assets/nofogmod/icon.png",
