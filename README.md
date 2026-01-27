@@ -17,6 +17,10 @@
 ## This mod has no config, no complicated settings or features.
 ### It just removes fog from the game. That's it. ***:)***
 
+<a href="https://i.imgur.com/IpwM3ZL.png" target="_blank">
+  <img src="https://i.imgur.com/IpwM3ZL.png" width="640" height="360" alt="Compatible with Forge">
+</a>
+
 ---
 
 #### Incompatible Mods:
