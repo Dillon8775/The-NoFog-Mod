@@ -16,3 +16,14 @@
 
 ## This mod has no config, no complicated settings or features.
 ### It just removes fog from the game. That's it. ***:)***
+
+---
+
+#### Incompatible Mods:
+- OptiFine/OptiFabric
+- The Speedrunner Mod, Simple Keybinds, and Quality of Queso
+  - These mods already have an option to remove fog built-in to them.
+
+---
+
+Created by Dillon8775.
