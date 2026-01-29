@@ -17,8 +17,8 @@
 ## This mod has no config, no complicated settings or features.
 ### It just removes fog from the game. That's it. ***:)***
 
-<a href="https://cdn.discordapp.com/attachments/1466497254482383008/1466498522093326407/IpwM3ZL_-_Imgur.png?ex=697cf6ad&is=697ba52d&hm=b3f4dbd00e627cbdc76d7634b4a1c693738a92510e9f41cff218a941d1866bc0&" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1466497254482383008/1466498522093326407/IpwM3ZL_-_Imgur.png?ex=697cf6ad&is=697ba52d&hm=b3f4dbd00e627cbdc76d7634b4a1c693738a92510e9f41cff218a941d1866bc0&" width="640" height="360" alt="Compatible with Forge">
+<a href="https://github.com/Dillon8775/ImageGIFs/blob/nofog/Removed%20fog.png?raw=true" target="_blank">
+  <img src="https://github.com/Dillon8775/ImageGIFs/blob/nofog/Removed%20fog.png?raw=true" width="640" height="360" alt="Compatible with Forge">
 </a>
 
 ---
