@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="17" />
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-common/0.3.5/5de895137aa0478675b6ecf7602d9652b05dc37e/mixinextras-common-0.3.5.jar" />
+        </processorPath>
+        <module name="Survival_Fly.common.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21.11.main" target="21" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21.11.test" target="21" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21.6x.main" target="21" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21.6x.test" target="21" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21x.main" target="21" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21x.test" target="21" />
+      <module name="The_NoFog_Mod.modules" target="21" />
+      <module name="The_NoFog_Mod.modules.common" target="21" />
+      <module name="The_NoFog_Mod.modules.common.main" target="21" />
+      <module name="The_NoFog_Mod.modules.common.test" target="21" />
+      <module name="The_NoFog_Mod.modules.fabric-mc1.21.11" target="21" />
+      <module name="The_NoFog_Mod.modules.fabric-mc1.21.6x" target="21" />
+      <module name="The_NoFog_Mod.modules.fabric-mc1.21x" target="21" />
+      <module name="The_NoFog_Mod.modules.main" target="21" />
+      <module name="The_NoFog_Mod.modules.test" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -11,9 +36,11 @@
       <module name="The_NoFog_Mod.modules.fabric-mc1.20.1" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
       <module name="The_NoFog_Mod.modules.fabric-mc1.20.1.main" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
       <module name="The_NoFog_Mod.modules.fabric-mc1.20.1.test" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\classes\java\test\test-nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20.1\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.test.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
-      <module name="The_NoFog_Mod.modules.fabric-mc1.20x" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
+      <module name="The_NoFog_Mod.modules.fabric-mc1.20x" options="&quot;-AoutRefMapFile=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
       <module name="The_NoFog_Mod.modules.fabric-mc1.20x.main" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
       <module name="The_NoFog_Mod.modules.fabric-mc1.20x.test" options="&quot;-AoutRefMapFile=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\test\test-nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=E:\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.test.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.20x.main" options="&quot;-AoutRefMapFile=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\main\nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
+      <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.20x.test" options="&quot;-AoutRefMapFile=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\classes\java\test\test-nofogmod-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\dillo\Desktop\Programming\Minecraft Modding\The NoFog Mod\modules\fabric-mc1.20x\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2.test.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\dillo\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.1-v2\mappings.tiny" />
     </option>
   </component>
 </project>

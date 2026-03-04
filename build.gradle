@@ -1,26 +1,6 @@
-//allprojects {
-//    buildDir = "../build"
-//}
-
-subprojects {
-    apply plugin: 'java'
-    java.withSourcesJar()
-    java.withJavadocJar()
-
-    repositories {
-        maven {
-            name = 'Fabric'
-            url = 'https://maven.fabricmc.net/'
-        }
-        mavenCentral()
-        gradlePluginPortal()
-    }
-
-    sourceSets {
-        main {
-            resources {
-                srcDir project(':modules:common').file('src/main/resources')
-            }
-        }
-    }
+plugins {
+    // see https://fabricmc.net/develop/ for new versions
+    id 'net.fabricmc.fabric-loom' version '1.15-SNAPSHOT' apply false
+    // see https://projects.neoforged.net/neoforged/moddevgradle for new versions
+    id 'net.neoforged.moddev' version '2.0.140' apply false
 }
