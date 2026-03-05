@@ -1,5 +1,11 @@
 # A simple mod that removes fog.
 
+###
+
+<a href="https://neoforged.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Dillon8775/ImageGIFs/refs/heads/universal/NeoForged%20Logo.png" width="438 " height="90" alt="Compatible with Forge">
+</a>
+
 ####
 
 <a href="https://fabricmc.net/" target="_blank">
