@@ -7,7 +7,7 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-common/0.3.5/5de895137aa0478675b6ecf7602d9652b05dc37e/mixinextras-common-0.3.5.jar" />
         </processorPath>
-        <module name="Survival_Fly.common.main" />
+        <module name="The_NoFog_Mod.common.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
@@ -17,6 +17,18 @@
       <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21.6x.test" target="21" />
       <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21x.main" target="21" />
       <module name="net.dillon.nofogmod.The_NoFog_Mod.modules.fabric-mc1.21x.test" target="21" />
+      <module name="Survival_Fly.buildSrc" target="25" />
+      <module name="Survival_Fly.buildSrc.main" target="25" />
+      <module name="Survival_Fly.buildSrc.test" target="25" />
+      <module name="Survival_Fly.common" target="25" />
+      <module name="Survival_Fly.common.main" target="25" />
+      <module name="Survival_Fly.common.test" target="25" />
+      <module name="Survival_Fly.fabric" target="25" />
+      <module name="Survival_Fly.fabric.main" target="25" />
+      <module name="Survival_Fly.fabric.test" target="25" />
+      <module name="Survival_Fly.neoforge" target="25" />
+      <module name="Survival_Fly.neoforge.main" target="25" />
+      <module name="Survival_Fly.neoforge.test" target="25" />
       <module name="The_NoFog_Mod.modules" target="21" />
       <module name="The_NoFog_Mod.modules.common" target="21" />
       <module name="The_NoFog_Mod.modules.common.main" target="21" />
