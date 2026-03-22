@@ -240,5 +240,3 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/gradle,forgegradle,java,intellij,eclipse
 
 .idea/runConfigurations/*
-/fabric/runs/
-/.idea/
