@@ -57,7 +57,6 @@ tasks.register('curseforge', TaskPublishCurseForge) {
         def mainFile = upload(findProperty("curseforge_project_id"), jar.archiveFile.get().asFile)
         mainFile.displayName = "[${mc_version.substring(2)}] $mod_name ${mod_version}"
         mainFile.changelog = rootProject.file("${changelog_file}").text
-        mainFile.addRequirement("balm")
         def supportedVersions = supported_mc_versions
                 .split(",")
                 .collect { it.trim() }
@@ -88,9 +87,6 @@ modrinth {
             .collect { it.trim() }
     gameVersions = supportedVersions
     loaders = ['neoforge']
-    dependencies {
-        required.project "balm"
-    }
 }
 
 // Implement mcgradleconventions loader attribute

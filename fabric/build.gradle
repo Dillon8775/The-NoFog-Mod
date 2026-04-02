@@ -72,7 +72,6 @@ tasks.register('curseforge', TaskPublishCurseForge) {
         mainFile.displayName = "[${mc_version.substring(2)}] $mod_name ${mod_version}"
         mainFile.changelog = rootProject.file("${changelog_file}").text
         mainFile.addRequirement("fabric-api")
-        mainFile.addRequirement("balm")
         def supportedVersions = supported_mc_versions
                 .split(",")
                 .collect { it.trim() }
@@ -103,6 +102,5 @@ modrinth {
     loaders = ['fabric']
     dependencies {
         required.project "fabric-api"
-        required.project "balm"
     }
 }
