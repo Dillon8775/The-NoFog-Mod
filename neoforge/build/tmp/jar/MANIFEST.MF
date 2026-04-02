@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: The NoFog Mod
+Specification-Vendor: Dillon8775, MannyQUESO
+Specification-Version: 1.0
+Implementation-Title: neoforge
+Implementation-Version: 1.0
+Implementation-Vendor: Dillon8775, MannyQUESO
+Built-On-Minecraft: 26.1
+

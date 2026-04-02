@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"net.dillon.nofogmod.mixin","c":"FogRendererMixin","l":"FogRendererMixin()","u":"%3Cinit%3E()","k":"3"},{"p":"net.dillon.nofogmod","c":"NoFogMod","l":"NoFogMod()","u":"%3Cinit%3E()","k":"3"},{"p":"net.dillon.nofogmod","c":"NoFogMod","l":"onInitializeClient()"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"net.dillon.nofogmod.mixin","l":"FogRendererMixin"},{"p":"net.dillon.nofogmod.util","l":"ModUtil"},{"p":"net.dillon.nofogmod","l":"NoFogMod"}];updateSearchResults();

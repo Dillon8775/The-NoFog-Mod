@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/dillon/nofogmod/mixin/FogRendererMixin": {
+      "setupFog": "Lnet/minecraft/client/renderer/FogRenderer;m_234172_(Lnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/FogRenderer$FogMode;FZF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/dillon/nofogmod/mixin/FogRendererMixin": {
+        "setupFog": "Lnet/minecraft/client/renderer/FogRenderer;m_234172_(Lnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/FogRenderer$FogMode;FZF)V"
+      }
+    }
+  }
+}
