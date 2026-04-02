@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "nofogmod",
-  "version": "1.0+mc26.1x",
-  "name": "The NoFog Mod",
-  "description": "A simple mod that removes fog.",
+  "id": "${mod_id}",
+  "version": "${mod_version}+${mc_version}",
+  "name": "${mod_name}",
+  "description": "${description}",
   "authors": [
-    "Dillon8775, MannyQUESO"
+    "Dillon8775"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/the-nofog-mod",
-    "sources": "https://github.com/Dillon8775/The-NoFog-Mod",
-    "issues": "https://github.com/Dillon8775/The-NoFog-Mod/issues"
+    "homepage": "${homepage}",
+    "sources": "${sources}",
+    "issues": "${issues}"
   },
-  "license": "All rights reserved.",
-  "icon": "assets/nofogmod/icon.png",
-  "environment": "client",
+  "license": "${license}",
+  "icon": "${logo}.png",
+  "environment": "*",
   "entrypoints": {
     "client": [
       "net.dillon.nofogmod.NoFogMod"
@@ -24,23 +24,17 @@
     "nofogmod.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.18.4",
-    "minecraft": ">=26.1",
-    "java": ">=25",
-    "fabric-api": "*"
+    "fabricloader": ">=${fabric_loader_version}",
+    "minecraft": ">=26.1-pre.2",
+    "java": ">=${java_version}",
+    "fabric-api": "*",
+    "balm-fabric": ">=${balm_version}"
   },
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://discord.gg/vfqEAn4YFy"
+        "modmenu.discord": "${discord}"
       }
     }
-  },
-  "breaks": {
-    "simplekeybinds": "*",
-    "qualityofqueso": ">=1.5.1",
-    "speedrunnermod": "*",
-    "optifine": "*",
-    "optifabric": "*"
   }
 }
