@@ -1,9 +1,9 @@
-package net.dillon.nofogmod.util;
+package net.dillon.nofogmod.helper;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ModUtil {
+public class ModHelper {
     public static final String MOD_ID = "nofogmod";
     private static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
