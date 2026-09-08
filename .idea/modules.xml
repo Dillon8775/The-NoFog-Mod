@@ -14,6 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/fabric-mc1.21x/The_NoFog_Mod.modules.fabric-mc1.21x.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/The_NoFog_Mod.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/The_NoFog_Mod.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/net.dillon.nofogmod.The_NoFog_Mod.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/net.dillon.nofogmod.The_NoFog_Mod.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/net.dillon.nofogmod.The_NoFog_Mod.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/net.dillon.nofogmod.The_NoFog_Mod.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/net.dillon.nofogmod.The_NoFog_Mod.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/net.dillon.nofogmod.The_NoFog_Mod.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/net.dillon.nofogmod.The_NoFog_Mod.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/net.dillon.nofogmod.The_NoFog_Mod.neoforge.main.iml" />
     </modules>
   </component>
 </project>
