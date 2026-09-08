@@ -7,7 +7,7 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-common/0.3.5/5de895137aa0478675b6ecf7602d9652b05dc37e/mixinextras-common-0.3.5.jar" />
         </processorPath>
-        <module name="net.dillon.nofogmod.The_NoFog_Mod.common.main" />
+        <module name="The_NoFog_Mod.common.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
