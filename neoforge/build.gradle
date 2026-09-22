@@ -88,6 +88,7 @@ modrinth {
             .collect { it.trim() }
     gameVersions = supportedVersions
     loaders = ['neoforge']
+    environment = "client_only"
 }
 
 // Implement mcgradleconventions loader attribute

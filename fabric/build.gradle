@@ -109,4 +109,5 @@ modrinth {
     dependencies {
         required.project "fabric-api"
     }
+    environment = "client_only"
 }
