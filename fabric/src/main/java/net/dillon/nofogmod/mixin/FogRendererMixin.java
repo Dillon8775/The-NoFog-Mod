@@ -19,7 +19,7 @@ import org.spongepowered.asm.mixin.injection.callback.LocalCapture;
 public class FogRendererMixin {
 
     @Inject(method = "setupFog", at = @At("RETURN"), locals = LocalCapture.CAPTURE_FAILHARD)
-    private void modifyFogEnd(Camera camera, int renderDistanceInChunks, DeltaTracker deltaTracker, float darkenWorldAmount, ClientLevel level, CallbackInfoReturnable<FogData> cir, float partialTickTime, float renderDistanceInBlocks, FogType fogType, Entity entity, FogData fog, float renderDistanceFogSpan) {
+    private void modifyFogEnd(Camera camera, int renderDistanceInChunks, DeltaTracker deltaTracker, float darkenWorldAmount, ClientLevel level, boolean shouldCreateBossFog, CallbackInfoReturnable<FogData> cir, float partialTickTime, float renderDistanceInBlocks, FogType fogType, Entity entity, FogData fog, float renderDistanceFogSpan) {
         if (entity instanceof LivingEntity livingEntity &&
                 !livingEntity.hasEffect(MobEffects.BLINDNESS) &&
                 !livingEntity.hasEffect(MobEffects.DARKNESS) &&

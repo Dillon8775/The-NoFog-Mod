@@ -1,6 +1,5 @@
 package net.dillon.nofogmod;
 
-import net.dillon.nofogmod.helper.ModHelper;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
@@ -10,6 +9,6 @@ public class NoFogMod implements ClientModInitializer {
 
 	@Override
 	public void onInitializeClient() {
-		ModHelper.initializeSuccess();
+		TheNoFogMod.printMsg();
 	}
 }
