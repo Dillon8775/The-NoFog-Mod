@@ -23,7 +23,7 @@ description = '''${description}'''
 
 # Mixins
 [[mixins]]
-config = "${mod_id}.mixins.json"
+config = "${mod_id}.neoforge.client.mixins.json"
 
 # NeoForge Dependency
 [[dependencies.${ mod_id }]]
